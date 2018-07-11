@@ -1,0 +1,2 @@
+flex-direction  : eje plincipal
+el otro flex es perpendicular al flex direction
